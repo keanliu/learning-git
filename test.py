@@ -7,7 +7,8 @@ def my_func(name, **kwargs):
     print('------')
     print(kwargs)
 
-    #kkk
+    #kean add 1
+    #kean add 2
 
 # my_func(1, 2, 3, 4, 5, 6, name = 'jack', age = 18)
 
