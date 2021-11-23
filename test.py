@@ -7,6 +7,8 @@ def my_func(name, **kwargs):
     print('------')
     print(kwargs)
 
+    #kkk
+
 # my_func(1, 2, 3, 4, 5, 6, name = 'jack', age = 18)
 
 person01 = {"name": 'Leon', 'age': 20}
