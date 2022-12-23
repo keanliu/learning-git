@@ -1,1 +1,10 @@
 01
+
+
+keans-MacBook-Pro:code kean_liu$ nslookup github.com
+Server:		10.64.1.55
+Address:	10.64.1.55#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 20.205.243.166
