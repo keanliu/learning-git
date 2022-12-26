@@ -8,3 +8,10 @@ Address:	10.64.1.55#53
 Non-authoritative answer:
 Name:	github.com
 Address: 20.205.243.166
+
+17 boxes for log permission case
+104 company incorrect report
+windows mail case
+
+Checked 17 boxes
+NTT-W asked for force firmware update
